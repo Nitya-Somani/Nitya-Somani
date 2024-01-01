@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Nitya Somani 👩🏻‍💻
 
-##I'm a full-stack developer based in India, currently working at Amazon.
+## I'm a full-stack developer based in India, currently working at Amazon.
 
 # 💻 Current Tech Stack
 
