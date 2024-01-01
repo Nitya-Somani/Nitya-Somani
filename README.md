@@ -13,10 +13,10 @@ I'm a full-stack developer based in India, currently working at Amazon.
 - **CSS** 🎨
 - **Tailwind CSS** 🌈
 - **Bootstrap** 🅱️
-
-## Backend
 - **JavaScript** 💡
 - **jQuery** 📁
+
+## Backend
 - **Java** ☕
 
 ## Database
