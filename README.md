@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello! 👋 I'm Nitya Somani 👩🏻‍💻
 
-<!--
-**Nitya-Somani/Nitya-Somani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer based in India, currently working at Amazon.
 
-Here are some ideas to get you started:
+## 💼 Current Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Redux, HTML, CSS, Tailwind, Bootstrap.
+- **Backend:** JavaScript, jQuery, Java.
+- **Database:** MySQL.
+- **Cloud:** AWS.
+- **Version Control:** Git, GitHub.
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/nitya-somani)
+- [GitHub](https://github.com/Nitya-Somani)
+
+Feel free to explore my GitHub repositories and connect with me on LinkedIn! 😊
+
+
+
