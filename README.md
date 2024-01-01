@@ -4,11 +4,31 @@ I'm a full-stack developer based in India, currently working at Amazon.
 
 ## 💼 Current Tech Stack
 
-- **Frontend:** React, Redux, HTML, CSS, Tailwind, Bootstrap.
-- **Backend:** JavaScript, jQuery, Java.
-- **Database:** MySQL.
-- **Cloud:** AWS.
-- **Version Control:** Git, GitHub.
+# 💻 Tech Stack
+
+## Frontend
+- **React** 🔥
+- **Redux** 🔄
+- **HTML** 🌐
+- **CSS** 🎨
+- **Tailwind CSS** 🌈
+- **Bootstrap** 🅱️
+
+## Backend
+- **JavaScript** 💡
+- **jQuery** 📁
+- **Java** ☕
+
+## Database
+- **MySQL** 🐬
+
+## Cloud
+- **AWS** ☁️
+
+## Version Control
+- **Git** 🌿
+- **GitHub** 🐙
+
 
 ## 🌐 Connect with Me
 
