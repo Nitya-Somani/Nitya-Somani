@@ -28,7 +28,4 @@
 - 🐙 [**GitHub**](https://github.com/Nitya-Somani)
 - ☕ [**Buy Me a Coffee**](https://www.buymeacoffee.com/nityasomani)
 
-Feel free to explore my GitHub repositories, connect with me on LinkedIn, or show some love by buying me a coffee! ☕😊
-
-
 Feel free to explore my GitHub repositories, connect with me on LinkedIn, or support me through Buy Me a Coffee! 😊
