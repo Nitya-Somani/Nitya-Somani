@@ -2,9 +2,7 @@
 
 I'm a full-stack developer based in India, currently working at Amazon.
 
-## 💼 Current Tech Stack
-
-# 💻 Tech Stack
+# 💻 Current Tech Stack
 
 ## Frontend
 - **React** 🔥
