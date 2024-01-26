@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Nitya Somani 👩🏻‍💻
 
-## I'm a frontend developer based in India.
+## I'm a Frontend Developer based in India.
 
 # 💻 Current Tech Stack
 
